@@ -1,3 +1,3 @@
-UniBH - Estruturas de dados - Lista
+UniBH - Estruturas de dados - Fila
 
-Implemente os métodos que faltam para uma lista simplesmente encadeada.
+
